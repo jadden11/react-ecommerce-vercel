@@ -1,14 +1,14 @@
 
 const products = [
-  // {
-  //   id: 1,
-  //   name: 'Sepatu Kodachi 8111 A Dark Grey',
-  //   href: '/product-detail/1',
-  //   imageSrc: 'https://i0.wp.com/www.sepatukodachi.com/wp-content/uploads/2023/12/kodachi-8111-A-1.png?fit=1024%2C1024&ssl=1',
-  //   imageAlt: "Front of men's Basic Tee in black.",
-  //   price: 'Rp168.000',
-  //   color: ' Putih | BNIB (Brand New In Box), 100% Original',
-  // },
+  {
+    id: 1,
+    name: 'Jaket Bloods',
+    href: '',
+    imageSrc: 'products-bloods.jpg',
+    imageAlt: "Front of men's Basic Tee in black.",
+    price: 'Rp 420.000',
+    color: 'Red',
+  },
   // {
   //   id: 2,
   //   name: 'Sepatu Kodachi Paket MZ3 (kodachi 8111 + Kaos Kaki Old School)',
@@ -24,7 +24,7 @@ const products = [
     href: '/product-detail/3',
     imageSrc: '/hoodie.jpg',
     imageAlt: "Front of men's Basic Tee in black.",
-    price: 'Rp48.000',
+    price: 'Rp 48.000',
     color: 'Green',
   },
   // {
