@@ -22,9 +22,9 @@ const products = [
     id: 3,
     name: 'Hoodie',
     href: '/product-detail/3',
-    imageSrc: '/hoodie.jpg',
+    imageSrc: 'products-hoodie.jpg',
     imageAlt: "Front of men's Basic Tee in black.",
-    price: 'Rp 48.000',
+    price: 'Rp 68.000',
     color: 'Green',
   },
   // {
