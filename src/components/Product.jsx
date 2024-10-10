@@ -3,7 +3,7 @@ const products = [
   {
     id: 1,
     name: 'Jaket Bloods',
-    href: 'https://seller.shopee.co.id/portal/product/28063689308',
+    href: 'https://shopee.co.id/product/1266677172/28063689308/',
     imageSrc: 'products-bloods.jpg',
     imageAlt: "Front of men's Basic Tee in black.",
     price: 'Rp 420.000',
